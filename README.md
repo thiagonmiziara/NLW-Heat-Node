@@ -5,7 +5,7 @@
   <!-- <a href="https://nlwnode.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Nlw Heat Node</h1>
+<h1 align="center">NLW Heat - Node.js</h1>
 
 <!-- Status -->
 
@@ -42,7 +42,9 @@ Projeto desenvolvido na NLW-Heat
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Prisma](https://www.prisma.io/)
-- [Web-Socket](https://socket.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Socket.IO](https://socket.io/)
+- [JSON Web Token](https://auth0.com/resources/ebooks/jwt-handbook?utm_source=google&utm_medium=cpc&utm_term=-g-json%20web%20token&pm=true&utm_campaign=latam-pt-brazil-generic-authentication&gclid=CjwKCAjw2bmLBhBREiwAZ6ugo7OMHHm_br_04geIEcepsPcGBRgFX2ESgHXF8WJJvOx86e4HeH4gYBoCS84QAvD_BwE)
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 
